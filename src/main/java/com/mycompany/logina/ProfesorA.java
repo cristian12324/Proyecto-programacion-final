@@ -3,13 +3,14 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package com.mycompany.logina;
+import java.io.Serializable;
 import java.util.ArrayList;
 /**
  *
  * @author cristian
  */
 
-public class ProfesorA {
+public class ProfesorA implements Serializable{
    public  String nombre;
     public String apellido;
     public String usuario;

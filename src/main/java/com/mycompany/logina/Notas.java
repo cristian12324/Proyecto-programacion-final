@@ -22,7 +22,9 @@ public class Notas extends javax.swing.JFrame {
         infoGlobal = info;
         for(Cursos c: info.CursosAsignados){
             jComboBox1.addItem(String.valueOf(c.Codigo));
+            
         }
+      
     }
 
     /**
@@ -51,6 +53,12 @@ public class Notas extends javax.swing.JFrame {
         jLabel2.setText("Alumnos");
 
         jLabel3.setText("Cursos");
+
+        jComboBox2.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jComboBox2ActionPerformed(evt);
+            }
+        });
 
         jButton1.setText("Ingresar Nota");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
@@ -154,6 +162,10 @@ public class Notas extends javax.swing.JFrame {
         // TODO add your handling code here:
         this.dispose();
     }//GEN-LAST:event_jButton3ActionPerformed
+
+    private void jComboBox2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jComboBox2ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jComboBox2ActionPerformed
 
     
 

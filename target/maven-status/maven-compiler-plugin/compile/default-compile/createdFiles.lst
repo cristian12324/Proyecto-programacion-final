@@ -21,6 +21,7 @@ com/mycompany/logina/ConsultaDeProfesoresAlumnosCurso$1.class
 com/mycompany/logina/ModificarAlumno$1.class
 com/mycompany/logina/AsignacionesDeEstudiante.class
 com/mycompany/logina/CreacionCurso.class
+com/mycompany/logina/promedio.class
 com/mycompany/logina/CreacionAlumno$5.class
 com/mycompany/logina/ModificarProfesor$1.class
 com/mycompany/logina/PerfilAlumno$1.class
@@ -34,10 +35,13 @@ com/mycompany/logina/ModificarAlumno$2.class
 com/mycompany/logina/BienvenidaProfesor$1.class
 com/mycompany/logina/VerNotasAlumnos$2.class
 com/mycompany/logina/CreacionAlumno$1.class
+com/mycompany/logina/Serializacion.class
 com/mycompany/logina/BienvenidoAlumno$5.class
 com/mycompany/logina/ConsultaEstudiantedeCurso.class
 com/mycompany/logina/AsignacionesDeEstudiante$2.class
 com/mycompany/logina/ModificarAlumno.class
+com/mycompany/logina/PerfilAlumno$3.class
+com/mycompany/logina/Notas$4.class
 com/mycompany/logina/AsignacionEstudianteaCurso$3.class
 com/mycompany/logina/CreacionCurso$4.class
 com/mycompany/logina/Administrador$3.class
@@ -63,6 +67,7 @@ com/mycompany/logina/PerfilAlumno$2.class
 com/mycompany/logina/BienvenidoAlumno$4.class
 com/mycompany/logina/AsignacionEstudianteaCurso$1.class
 com/mycompany/logina/ModificarAlumno$3.class
+com/mycompany/logina/BienvenidoAlumno$7.class
 com/mycompany/logina/ProfesorA.class
 com/mycompany/logina/CreacionCurso$2.class
 com/mycompany/logina/BienvenidaProfesor$5.class

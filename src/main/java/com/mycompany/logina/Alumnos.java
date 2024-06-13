@@ -4,13 +4,14 @@
  */
 package com.mycompany.logina;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 
 /**
  *
  * @author cristian
  */
-public class Alumnos {
+public class Alumnos implements Serializable{
     public  String carne;
     public  String nombre;
     public  String apellido;
